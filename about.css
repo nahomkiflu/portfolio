@@ -1,6 +1,13 @@
 body{
-    background: lightseagreen;
+    background: lightgreen;
 }
-h2{
-    font-size: 50px;
+P {
+    font-size: 20px;
+    background: lightgreen;
+    text-align: center;
+    
+}
+h3 {
+    font-size: 20px;
+    text-align: center;
 }

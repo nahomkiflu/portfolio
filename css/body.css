@@ -1,5 +1,5 @@
 body {
-    background-image: url(http://www.4usky.com/download/164165730.html)
+    background: lightcoral
     no-repeat center;
     background-size: cover;
     height: 100%;
@@ -42,4 +42,7 @@ body {
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
+  }
+  p {
+    font-size: 20;
   }
